@@ -22,7 +22,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # Threads_Posts_VUE.JS-APP
 # github-search-tool
 
-![alt text](github.com/Alamin-Juma/Threads_Posts_VUE.JS-APP/blob/main/src/assets/posts.png?raw=true)
+![alt text](https://github.com/Alamin-Juma/Threads_Posts_VUE.JS-APP/blob/main/src/assets/posts.png)
 
 ## How to navigate this project
 - Somewhat complex stateful logic: [https://github.com/Alamin-Juma/github-search-tool]
