@@ -20,7 +20,6 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Threads_Posts_VUE.JS-APP
-# github-search-tool
 
 ### What is the app about
 This is a thread application that utilizes json data from a rest API. It queries the data object properties and renders the data into Vue JS components dynamically. Display data list as threads coming from the data JSON. And applying styles to the vue components.
